@@ -1,5 +1,12 @@
 # Ecommerce App (A2/ecommerce-app)
 
+## 💖 Support my Open-Source Journey
+
+I am a software engineer and student dedicated to building tools that give users back their digital agency. If my work has saved you time, solved a technical headache, or improved your workflow, consider supporting my independent development!
+
+☕ **[Support my work on Patreon (Buy Me a Coffee)](https://patreon.com/HussainRazaKhan)** or 
+    **NayaPay ID:** `HusineRzaKhan@nayapay`
+
 This repository contains a demo full-stack E-Commerce app:
 
 - `frontend/` - React Native Expo app (screens + navigation)
